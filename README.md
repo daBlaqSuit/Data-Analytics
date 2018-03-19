@@ -7,10 +7,10 @@ If a car is discovered to have a defect, the automaker or the National Highway T
 
 Questions
 
-Which Recall Type had the highest recalls
-Which Manufacturer had the most recalls over time
-How many Units have been recalled in total
-Which model had the highest recall in total
+Which Recall Type had the highest recalls.
+Which Manufacturer had the most recalls over time.
+How many Units have been recalled in total.
+Which model had the highest recall in total.
 
 The questions were answered using Qlikview and the dashboard has been provided, please see among the attachments:
 
